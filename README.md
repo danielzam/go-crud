@@ -1,2 +1,2 @@
 # go-crud
-Crud with Go
+Crud Basic with Go
